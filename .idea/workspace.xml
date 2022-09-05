@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d9a1016-0e51-4a04-a0af-377540e36df8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank-balance-exactly-once/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank-balance-exactly-once/src/main/java/com/ysuturin/kafka/streams/BankBalanceExactlyOnceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank-balance-exactly-once/src/main/java/com/ysuturin/kafka/streams/BankTransactionProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank-balance-exactly-once/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank-balance-exactly-once/src/test/java/com/ysuturin/kafka/streams/BankTransactionProducerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favourite-color/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-event-enricher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-event-enricher/src/main/java/com/ysuturin/kafka/streams/UserDataProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-event-enricher/src/main/java/com/ysuturin/kafka/streams/UserEventEnricherApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-event-enricher/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-count-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-count-project/src/main/java/com/ysuturin/kafka/streams/WordCountApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-count-project/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word-count-project/src/test/java/com/ysuturin/kafka/streams/WordCountAppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EKyo7GDlJxiqeFaUDpRB47EPL3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/media/ysuturin/myfiles/workspace/gitrepo/kafka-streams-ysuturin-updated"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/user-event-enricher" />
+      <recent name="$PROJECT_DIR$/word-count-project" />
+      <recent name="$PROJECT_DIR$/bank-balance-exactly-once" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d9a1016-0e51-4a04-a0af-377540e36df8" name="Changes" comment="" />
+      <created>1662358745132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662358745132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
